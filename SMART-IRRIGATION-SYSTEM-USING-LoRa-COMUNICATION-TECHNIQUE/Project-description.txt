@@ -1,2 +1,8 @@
-Lora based IoT Smart Irrigation System using Nodemcu ESP8266 Wi-Fi module, 15Km Lora Transceiver modules, Arduino Nano, and Capacitive Soil Moisture Sensor V1.2.
-On the transmitter side, the Lora module is used with the Arduino Nano to send the Sensors data to the Receiver. ON the receiver side, the Lora module is connected with the Nodemcu ESP8266 Wi-Fi module. At this point, you can directly connect the Nodemcu Module with the Laptop and monitor the data on the serial monitor or you can design a cell phone application and monitor the data from anywhere around the world.
+Lora based IoT Smart Irrigation System using Nodemcu ESP8266 Wi-Fi module, 
+15Km Lora Transceiver modules, Arduino Nano, and Capacitive Soil Moisture 
+Sensor V1.2.On the transmitter side, the Lora module is used  with    the 
+Arduino Nano to send the Sensors data to the Receiver.ON the receiver side, 
+the Lora module is connected with the Nodemcu ESP8266 Wi-Fi module.At this 
+point, you can directly connect the Nodemcu Module  with  the  Laptop  and 
+monitor the data on the  serial  monitor  or you can  design  a  cell phone 
+application and monitor the data from anywhere around the world.
